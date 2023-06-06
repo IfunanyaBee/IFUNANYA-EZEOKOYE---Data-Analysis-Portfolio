@@ -1,3 +1,7 @@
 # IFUNANYA-EZEOKOYE---Data-Analysis-Portfolio
 Hello, I'm Ifunanya.
-This is a repository that I have created to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics
+
+I am a budding Data Analyst who has just transitioned from Chemical Engineering to Tech. I am on the journey to acquiring  Professional certificate in Data analysis while buliding my skills and experiences in the field by working on various projects and sharing to prospective employers and co-learners.
+
+
+I
