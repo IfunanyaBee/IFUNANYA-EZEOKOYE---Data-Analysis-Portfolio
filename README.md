@@ -8,9 +8,9 @@ I am a budding Data Analyst who has just transitioned from Chemical Engineering 
 # EXCEL PROJECTS
 
 
-# Project 1: [Sales Dashboard](https://github.com/IfunanyaBee/IFUNANYA-EZEOKOYE---Data-Analysis-Portfolio/blob/main/Sales-Dashboard-practice-project.xlsx)
+# [Project 1:Sales Dashboard](https://github.com/IfunanyaBee/IFUNANYA-EZEOKOYE---Data-Analysis-Portfolio/blob/main/Sales-Dashboard-practice-project.xlsx)
 
-# Project 2: [Volume By Region Data Request Volume](https://github.com/IfunanyaBee/IFUNANYA-EZEOKOYE---Data-Analysis-Portfolio/blob/main/Volume%20by%20Region%20data%20request%20Project.xlsx)
+# [Project 2:[Volume By Region Data Request Volume](https://github.com/IfunanyaBee/IFUNANYA-EZEOKOYE---Data-Analysis-Portfolio/blob/main/Volume%20by%20Region%20data%20request%20Project.xlsx)
 
 
 
